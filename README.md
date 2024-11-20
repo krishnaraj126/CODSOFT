@@ -3,6 +3,8 @@ This repository is made for posting my assignments and tasks during my Web devel
 
 # LEVEL 1 TASK 1 
 # Landing page
+This is a landing page of a restaurant website made out of HTML & CSS and its responsive.
+Background images from pexel
 ![Landing page](https://github.com/user-attachments/assets/5ac17f96-9b33-4cb8-b479-acc237ffcce3)
 ![Menu](https://github.com/user-attachments/assets/9c527799-f21e-43eb-aa1a-f7189547982e)
 ![Footerpage](https://github.com/user-attachments/assets/03abd238-b482-432a-abf2-4ee2ff40f4bd)
